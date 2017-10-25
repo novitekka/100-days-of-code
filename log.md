@@ -8,12 +8,11 @@
 **Thoughts:** Started with basic HTML that I already knew.
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: October 26,2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Polished basic CSS and Html knowledge. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Got to learn some new functionlaities of HTML5 like 'required' and use of lable for button and check boxes.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
