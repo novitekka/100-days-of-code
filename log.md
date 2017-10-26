@@ -14,15 +14,12 @@
 
 **Thoughts**: Got to learn some new functionlaities of HTML5 like 'required' and use of lable for button and check boxes.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: June 27, Monday
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Learned about css over-riding, margin, padding and kick-startes Bootstrap
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** My concepts are getting cleared, and helping to understand things better. Bootstrap is what I was looking forward always. I hope it helps in a great way. I really am excited about things comming ahead
+
