@@ -23,7 +23,7 @@
 
 **Thoughts** My concepts are getting cleared, and helping to understand things better. Bootstrap is what I was looking forward always. I hope it helps in a great way. I really am excited about things comming ahead
 
-### Day 3: June 28, Friday
+### Day 4: June 28, Friday
 
 **Today's Progress**: Bootstrap section completed. Started JQuery!
 
