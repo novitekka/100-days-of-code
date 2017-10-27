@@ -17,9 +17,14 @@
 
 
 
-### Day 3: June 27, Monday
+### Day 3: June 27, Thursday
 
 **Today's Progress**: Learned about css over-riding, margin, padding and kick-startes Bootstrap
 
 **Thoughts** My concepts are getting cleared, and helping to understand things better. Bootstrap is what I was looking forward always. I hope it helps in a great way. I really am excited about things comming ahead
 
+### Day 3: June 28, Friday
+
+**Today's Progress**: Bootstrap section completed. Started JQuery!
+
+**Thoughts** Completed Bootstrap. Loved it. learned about btn classes, img-responsive class. Thanks. JQuery I a comming for you.
